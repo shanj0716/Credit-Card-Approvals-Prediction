@@ -11,4 +11,4 @@ In this project, we build an automatic credit card approval predictor using mach
 3) building a machine learning model, making prediction and evaluating performance
 4) fine-tuning the parameters to find the best model
 
-Ipython notebook used can be found [here]().
+Ipython notebook used can be found [here](https://github.com/shanj0716/Credit-Card-Approvals-Prediction/blob/master/credit-card-approvals.ipynb).
